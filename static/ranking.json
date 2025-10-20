@@ -67,7 +67,8 @@
             "discord_name": "m1xnlp#0",
             "UHC": "LT3",
             "SWORD": "LT3",
-            "SMP": "LT4"
+            "SMP": "LT4",
+            "DPOT": "LT3"
         },
         "1109904236961087630": {
             "discord_name": "z4dii_#0",
@@ -110,7 +111,8 @@
         },
         "1318133876534673408": {
             "discord_name": "yahirpo#0",
-            "UHC": "HT3"
+            "UHC": "HT3",
+            "SMP": "LT3"
         },
         "1341431829982351391": {
             "discord_name": "lukita22sk#0",
@@ -190,7 +192,10 @@
         },
         "758471499530240052": {
             "discord_name": "skottaku#0",
-            "CPVP": "LT2"
+            "CPVP": "LT2",
+            "MACE": "LT3",
+            "SMP": "LT3",
+            "UHC": "LT3"
         },
         "1396509573933830255": {
             "discord_name": ".nlkz#0",
@@ -198,7 +203,11 @@
         },
         "1093732777112907777": {
             "discord_name": "nicoow.#0",
-            "CPVP": "HT3"
+            "CPVP": "HT3",
+            "MACE": "LT3",
+            "UHC": "LT3",
+            "SWORD": "LT4",
+            "NETHPOT": "LT3"
         },
         "850794735890595880": {
             "discord_name": "jaimsrre#0",
@@ -214,11 +223,37 @@
         },
         "1121262265455349820": {
             "discord_name": "astrorecovery#0",
-            "UHC": "HT5"
+            "UHC": "LT4",
+            "SWORD": "LT4"
         },
         "969348813192044564": {
             "discord_name": "jefer5#0",
             "UHC": "LT5"
+        },
+        "1005496212880900156": {
+            "discord_name": "nosoyhenry1#0",
+            "UHC": "LT5"
+        },
+        "1209525569151045664": {
+            "discord_name": "moto_mami234345#0",
+            "UHC": "LT5",
+            "SMP": "LT4"
+        },
+        "919709949330862171": {
+            "discord_name": "juletianzz#0",
+            "UHC": "HT5"
+        },
+        "1273663958959525898": {
+            "discord_name": "snipe_ofc_54309#0",
+            "UHC": "LT5"
+        },
+        "1221556941847920821": {
+            "discord_name": "estrem_star_lv#0",
+            "CPVP": "LT3"
+        },
+        "1190056056064331816": {
+            "discord_name": "fakuzzed#0",
+            "CPVP": "LT4"
         }
     },
     "ranking_message_id": 1427820795152826430
