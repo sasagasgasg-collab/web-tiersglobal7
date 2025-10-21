@@ -43,7 +43,8 @@
         "826361691594817536": {
             "discord_name": "koharux#0",
             "SWORD": "HT4",
-            "UHC": "HT5"
+            "UHC": "HT5",
+            "CPVP": "HT4"
         },
         "456880179910803477": {
             "discord_name": "luka_s4#0",
@@ -76,7 +77,8 @@
             "SMP": "LT3",
             "SWORD": "LT3",
             "DPOT": "LT3",
-            "NETHPOT": "LT4"
+            "NETHPOT": "LT4",
+            "CPVP": "HT4"
         },
         "784271806281809924": {
             "discord_name": "minan89#0",
@@ -112,7 +114,9 @@
         "1318133876534673408": {
             "discord_name": "yahirpo#0",
             "UHC": "HT3",
-            "SMP": "LT3"
+            "SMP": "LT3",
+            "MACE": "LT3",
+            "CPVP": "LT4"
         },
         "1341431829982351391": {
             "discord_name": "lukita22sk#0",
@@ -144,7 +148,7 @@
         },
         "1279990545531539473": {
             "discord_name": "gatoganson#0",
-            "UHC": "HT4"
+            "UHC": "LT3"
         },
         "958527196186697749": {
             "discord_name": "metruenito#0",
@@ -176,7 +180,8 @@
         },
         "1191224107270946897": {
             "discord_name": "maestroyupanky#0",
-            "CPVP": "HT3"
+            "CPVP": "HT3",
+            "UHC": "HT5"
         },
         "1068594443441164328": {
             "discord_name": "tiliwilis#0",
@@ -219,7 +224,7 @@
         },
         "1367909617039970406": {
             "discord_name": "kimity__#0",
-            "SMP": "LT3"
+            "SMP": "HT3"
         },
         "1121262265455349820": {
             "discord_name": "astrorecovery#0",
@@ -236,7 +241,7 @@
         },
         "1209525569151045664": {
             "discord_name": "moto_mami234345#0",
-            "UHC": "LT5",
+            "UHC": "HT5",
             "SMP": "LT4"
         },
         "919709949330862171": {
@@ -253,7 +258,25 @@
         },
         "1190056056064331816": {
             "discord_name": "fakuzzed#0",
-            "CPVP": "LT4"
+            "CPVP": "LT4",
+            "MACE": "HT5"
+        },
+        "798551631691776010": {
+            "discord_name": "ian_salazar81#0",
+            "CPVP": "LT5"
+        },
+        "1418081071458811916": {
+            "discord_name": "aniss_5#0",
+            "UHC": "HT5"
+        },
+        "913924891588325376": {
+            "discord_name": "diusikke#0",
+            "UHC": "HT5"
+        },
+        "1258993111149973607": {
+            "discord_name": "cor9px#0",
+            "SWORD": "LT3",
+            "DPOT": "LT3"
         }
     },
     "ranking_message_id": 1427820795152826430
