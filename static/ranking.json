@@ -38,17 +38,19 @@
         "691328576212959248": {
             "discord_name": "_unknown_1414#0",
             "SWORD": "LT3",
-            "UHC": "LT3"
+            "UHC": "LT3",
+            "SMP": "LT5"
         },
         "826361691594817536": {
             "discord_name": "koharux#0",
             "SWORD": "HT4",
-            "UHC": "HT5",
+            "UHC": "LT4",
             "CPVP": "HT4"
         },
         "456880179910803477": {
             "discord_name": "luka_s4#0",
-            "MACE": "LT3"
+            "MACE": "LT3",
+            "CPVP": "HT5"
         },
         "903399727993851935": {
             "discord_name": "marianoqds#0",
@@ -78,7 +80,8 @@
             "SWORD": "LT3",
             "DPOT": "LT3",
             "NETHPOT": "LT4",
-            "CPVP": "HT4"
+            "CPVP": "HT4",
+            "MACE": "LT4"
         },
         "784271806281809924": {
             "discord_name": "minan89#0",
@@ -116,7 +119,7 @@
             "UHC": "HT3",
             "SMP": "LT3",
             "MACE": "LT3",
-            "CPVP": "LT4"
+            "CPVP": "LT3"
         },
         "1341431829982351391": {
             "discord_name": "lukita22sk#0",
@@ -132,7 +135,8 @@
         },
         "1347208305185128448": {
             "discord_name": "kleveri_#0",
-            "UHC": "HT5"
+            "UHC": "HT5",
+            "CPVP": "HT5"
         },
         "1207410847127838804": {
             "discord_name": "franlt24k_#0",
@@ -140,7 +144,10 @@
         },
         "1305903108194439238": {
             "discord_name": "dreanking02#0",
-            "UHC": "HT5"
+            "UHC": "HT5",
+            "CPVP": "LT5",
+            "SMP": "LT5",
+            "SWORD": "LT4"
         },
         "1048736831828668537": {
             "discord_name": "stryxc#0",
@@ -160,7 +167,8 @@
         },
         "1275903491193307219": {
             "discord_name": "zaikolacabravape#0",
-            "UHC": "LT3"
+            "UHC": "LT3",
+            "SWORD": "LT4"
         },
         "836271508832649277": {
             "discord_name": "gimygs#0",
@@ -233,7 +241,8 @@
         },
         "969348813192044564": {
             "discord_name": "jefer5#0",
-            "UHC": "LT5"
+            "UHC": "LT5",
+            "CPVP": "HT5"
         },
         "1005496212880900156": {
             "discord_name": "nosoyhenry1#0",
@@ -277,6 +286,89 @@
             "discord_name": "cor9px#0",
             "SWORD": "LT3",
             "DPOT": "LT3"
+        },
+        "1231699387600732252": {
+            "discord_name": "braii_ez#0",
+            "CPVP": "LT4",
+            "MACE": "LT4"
+        },
+        "1376629585961287761": {
+            "discord_name": "hugo2328#0",
+            "CPVP": "LT3"
+        },
+        "1334957341728309324": {
+            "discord_name": "xequzo#0",
+            "SMP": "HT5"
+        },
+        "1276327813456199715": {
+            "discord_name": "argos_maus#0",
+            "CPVP": "HT5"
+        },
+        "1171946411055644856": {
+            "discord_name": "franco022010#0",
+            "CPVP": "HT5"
+        },
+        "1380326220608311396": {
+            "discord_name": "samy_barrera#0",
+            "CPVP": "LT5"
+        },
+        "1167320788760809524": {
+            "discord_name": "bazissues#0",
+            "CPVP": "LT3"
+        },
+        "1387487975826260060": {
+            "discord_name": "critifps#0",
+            "UHC": "HT3"
+        },
+        "818302284239994880": {
+            "discord_name": "prime_jose#0",
+            "CPVP": "LT4",
+            "MACE": "HT5"
+        },
+        "957724603487223850": {
+            "discord_name": "silavat#0",
+            "MACE": "HT4",
+            "CPVP": "LT5"
+        },
+        "742379711501566015": {
+            "discord_name": "gordofobico.#0",
+            "UHC": "HT4"
+        },
+        "756159964585787472": {
+            "discord_name": "elbabu_#0",
+            "UHC": "LT3"
+        },
+        "1132736885635166278": {
+            "discord_name": "timuel36#0",
+            "CPVP": "LT5"
+        },
+        "720773790539317310": {
+            "discord_name": "vdslexis#0",
+            "SWORD": "HT5"
+        },
+        "1075857911533805578": {
+            "discord_name": "nik._69#0",
+            "UHC": "LT5"
+        },
+        "717908167995949107": {
+            "discord_name": "chevazz#0",
+            "MACE": "HT5"
+        },
+        "1407092374735294587": {
+            "discord_name": "bajandopepita#0",
+            "CPVP": "HT4"
+        },
+        "773932752998760469": {
+            "discord_name": "fxcccuzx#0",
+            "CPVP": "HT5"
+        },
+        "1238964555435085968": {
+            "discord_name": "maxineitor123#0",
+            "UHC": "HT5"
+        },
+        "1391085138514935898": {
+            "discord_name": "isaak.pe#0",
+            "UHC": "HT3"
         }
     },
     "ranking_message_id": 1427820795152826430
